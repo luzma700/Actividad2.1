@@ -1,4 +1,4 @@
-# Actividad2. - Introducción a JavaScript en el desarrollo backend
+# Actividad2.1 - Introducción a JavaScript en el desarrollo backend
 
 # Objetivo
 Practicar cuatro formas básicas de mostrar un mensaje en JavaScript dentro de un contexto web:
